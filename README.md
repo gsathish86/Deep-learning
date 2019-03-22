@@ -55,3 +55,7 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
 
 ---
 *source from **Andrew Ng**'s [Deep learning](https://www.coursera.org/specializations/deep-learning) course on Coursera*
+
+## This repo is for everyone to gain knowledge about Deep learning and its applications.
+## Don't violate the Honor code.
+
